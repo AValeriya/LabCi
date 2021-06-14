@@ -1,0 +1,7 @@
+﻿  lab2.cpp
+D:\Prog\lab2\Task1\lab2\lab2\lab2.cpp(12,34): warning C4305: инициализация: усечение из "double" в "float"
+D:\Prog\lab2\Task1\lab2\lab2\lab2.cpp(12,76): warning C4305: инициализация: усечение из "double" в "float"
+D:\Prog\lab2\Task1\lab2\lab2\lab2.cpp(118,21): warning C4305: *=: усечение из "double" в "float"
+D:\Prog\lab2\Task1\lab2\lab2\lab2.cpp(119,16): warning C4476: "printf": неизвестный символ поля типа "!" в описателе формата
+D:\Prog\lab2\Task1\lab2\lab2\lab2.cpp(141): warning C4715: summary: значение возвращается не при всех путях выполнения
+  lab2.vcxproj -> D:\Prog\lab2\Task1\lab2\Debug\lab2.exe
